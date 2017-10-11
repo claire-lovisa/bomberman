@@ -1,6 +1,6 @@
 # bomberman
 
-** Bomberman Game User Guide **
+**Bomberman Game User Guide**
 
 Welcome to the Bomberman game guide.
 Here are the instructions to play, you can play on
