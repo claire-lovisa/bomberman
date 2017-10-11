@@ -1,0 +1,15 @@
+Joueur 1:600
+Joueur 4:0
+Joueur 3:0
+Joueur 2:0
+Joueur 1:440
+IA 2:0
+IA 3:0
+IA 4:0
+Joueur 1:280
+Joueur 2:0
+Joueur 1:690
+Joueur 2:0
+Joueur 2:170
+Joueur 1:0
+IA 3:0
